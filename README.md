@@ -14,8 +14,8 @@ It covers **absolute growth, Year-over-Year (YoY) growth, net growth, and Compou
 ## 📊 Key Insights
 - Portfolio CAGR ≈ **0.06%** (flat growth overall).  
 - Sharp decline in **2018–2019**, recovery in **2019–2020**.  
-- **Top growth drivers**: packaging, beverages, household items.  
-- **Bottom decliners**: meats, dairy, niche items.  
+- **Top growth drivers**: packaging, beverages, household items,meats.
+- **Bottom decliners**:  dairy, niche items.  
 - Heat map highlights volatility across products.
 - Highest Selling Product -Rice Paper
 - Lowest Selling Product -Wine - Ej Gallo Sierra Valley
